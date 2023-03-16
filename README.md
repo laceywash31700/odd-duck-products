@@ -1,2 +1,3 @@
 # odd-duck-products
-the weirdest products on the market at such a low value today 
+The weirdest products on the market at such a low value get yours today.
+Made by Lacey Washington.
