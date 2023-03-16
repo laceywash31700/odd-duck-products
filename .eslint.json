@@ -15,7 +15,7 @@
     "no-var": "error",
     "eqeqeq": ["error", "always"],
     "no-console": "off",
-    "no-undefined": "off",
+    "no-undefined": "on",
     "indent": ["error", 2],
     "quotes": ["warn", "single"],
     "no-multi-spaces": [
