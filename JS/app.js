@@ -14,6 +14,13 @@ const state = {
 
 };
 console.log(state);
+
+// bubble data chart cuz its cute and why not.
+const config = {
+  type: 'bubble',
+  data: data,
+  options: {}
+};
 // constructor Function for products
 function OddDuckProduct(name, fileExtension = 'jpg') {
   this.name = name;
