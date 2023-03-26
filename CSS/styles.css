@@ -1,0 +1,30 @@
+#logo {
+    height: 90px;
+    display: inline;
+}
+#flex-container{
+    display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+
+}
+h1 {
+    display: inline;
+    margin-bottom: 100px;
+    font-size: 50px
+;
+}
+.grid-item{
+    display: inline;
+}
+.image-section.grid-item{
+    display: inline;
+}
+.image-container{
+    display: inline;
+}
+.img{
+    height: 150px;
+}
