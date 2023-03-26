@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 'use strict';
 // Global variables
 let voteCount = 25;
@@ -53,7 +54,7 @@ if (retrievedData) {
 
 }
 
-// DOM reference 
+// DOM reference
 const imgHolder = document.getElementById('image-selection');
 const imgOne = document.getElementById('img-one');
 const imgTwo = document.getElementById('img-two');
@@ -164,6 +165,7 @@ function handleViewResults() {
       }
     };
 
+    // eslint-disable-next-line no-undef
     new Chart(ctx, results);
 
   }
